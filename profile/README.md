@@ -1,10 +1,5 @@
 # DaalBot - The only discord bot you need
 **DaalBot is a free and open source multipurpose discord bot that allows for infinite automation and customisability.**
-
-## Missing repositories
-Due to vercels restrictions on which git repositories certain plans can deploy from all of the site based repos are under [NotPiny](https://github.com/NotPiny) including our main site and documentation.
-* [NotPiny/DaalBotSite](https://github.com/NotPiny/DaalBotSite) | [(Main site / (www.)daalbot.xyz)](https://daalbot.xyz)
-* [NotPiny/DaalBot-Docs](https://github.com/NotPiny/DaalBot-Docs) | [(Documentation site / docs.daalbot.xyz)](https://docs.daalbot.xyz)
 <!--
 
 **Here are some ideas to get you started:**
